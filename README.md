@@ -6,8 +6,8 @@
 
 This project analyzes sales data of electronic accessories to understand customer behavior and market trends.
 
-### Project Topic
-## AMAZON CASE STUDY
+## Project Topic
+### AMAZON CASE STUDY
 
 
 ### Project Overview
