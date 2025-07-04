@@ -4,7 +4,7 @@
 ### Electronic Accessories Sales Analysis Repository
 ## Introduction
 
-This project analyzes sales data of electronic accessories to understand customer behavior and market trends.
+This Project Analyzes Sales Data of Electronic Accessories To Understand Customer Behavior And Market Trends.
 
 ## Project Topic
 ### AMAZON CASE STUDY
@@ -23,9 +23,20 @@ This project analyzes sales data of electronic accessories to understand custome
 
 Data Cleaning
  Handling missing values and data normalization
+ Data Manipulation
 
  Exploratory Data Analysis (EDA)
  Analyzing sales distribution, product categories, and    customer demographics
+
+ Tools Used
+
+ 
+ : Microsoft Excel 
+ 
+ : Pivot Table 
+ 
+ : Dashboard 
+ 
 
  Recommendation
  Product recommendations and marketing strategies
