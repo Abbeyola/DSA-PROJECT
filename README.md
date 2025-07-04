@@ -44,6 +44,8 @@ Data Cleaning
  Conclusion
  Summary of key findings and insights
 
+ Computer and Accessories as the highest sales
+
  
 
 
