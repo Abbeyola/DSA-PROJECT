@@ -59,3 +59,72 @@ Data Cleaning
 
 
 This repository provides a clear and concise overview of the project, making it easy to understand and collaborate.
+
+
+
+
+
+
+
+
+
+
+# Project 2: 
+
+## Palmoria Group Case 
+
+
+
+### Repository for Rating Data
+
+
+: Rating Data Repository
+: Category 
+: Rating Criteria 
+: Rating Scale 
+
+
+
+Sample Data
+#### Region ; Total Amount ; Rating 
+
+: Lagos  10,000,000 
+
+: Abuja  8,000,000 
+
+: Kaduna 6,000,000 
+
+: Department  Average Salary  Rating
+
+; Sales             80,000 
+;  Marketing        70,000 
+;  Human Resources  60,000 
+
+;  Gender  Count  Rating 
+
+; Male    500 
+; Female  300 
+
+### Rating Calculation
+Region Rating: Based on Total Amount per Region
+    - 1-2 million: 1
+    - 2-4 million: 2
+    - 4-6 million: 3
+    - 6-8 million: 4
+    - Above 8 million: 5
+- Salary Structure Rating: Based on Average Salary Range
+    - Below 40,000: 1
+    - 40,000-60,000: 2
+    - 60,000-80,000: 3
+    - 80,000-100,000: 4
+    - Above 100,000: 5
+- Gender Rating: Based on Male/Female Count
+    - Male: 1
+    - Female: 2
+
+Data Analysis
+- Region Analysis: Lagos has the highest total amount and rating, followed by Abuja and Kaduna.
+- Salary Structure Analysis: Sales department has the highest average salary and rating, followed by Marketing and Human Resources.
+- Gender Analysis: Male employees outnumber female employees, with a rating of 1 for Male and 2 for Female.
+
+This repository provides a sample framework for rating data based on gender, salary structure, and total amount per region. 
