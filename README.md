@@ -130,4 +130,6 @@ Sample Data
 - Salary Structure Analysis: Sales department has the highest average salary and rating, followed by Marketing and Human Resources.
 - Gender Analysis: Male employees outnumber female employees, with a rating of 1 for Male and 2 for Female.
 
+  DOWNLOAD HERE{https://1drv.ms/i/c/525147625d394c64/EVnGtmoUeNRHt_JVH9VcLuoBHwg3EBooR6Gw90xDuiF9Xg?e=uFrQJj}
+
 This repository provides a sample framework for rating data based on gender, salary structure, and total amount per region. 
