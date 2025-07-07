@@ -136,5 +136,10 @@ This repository provides a sample framework for rating data based on gender, sal
 
 
 
-![DEPARTMENT COUNT CHART](https://github.com/user-attachments/assets/ccf0125e-24ef-4544-9fbb-28daa9c36f6c)
+![DEPARTMENT COUNT CHART](https://github.com/user-attachments/assets/ccf0125e-24ef-4544-9fbb-28daa9c36f6c) 
+
+
+
+![image](https://github.com/user-attachments/assets/53a7446c-bd2a-4a52-97de-56d1b4dd9c66)
+
 
