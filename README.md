@@ -132,4 +132,9 @@ Sample Data
 
   DOWNLOAD HERE{https://1drv.ms/i/c/525147625d394c64/EVnGtmoUeNRHt_JVH9VcLuoBHwg3EBooR6Gw90xDuiF9Xg?e=uFrQJj}
 
-This repository provides a sample framework for rating data based on gender, salary structure, and total amount per region. 
+This repository provides a sample framework for rating data based on gender, salary structure, and total amount per region.  
+
+
+
+![DEPARTMENT COUNT CHART](https://github.com/user-attachments/assets/ccf0125e-24ef-4544-9fbb-28daa9c36f6c)
+
