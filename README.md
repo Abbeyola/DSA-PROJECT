@@ -52,9 +52,9 @@ Data Cleaning
  
  Summary of key findings and insights
 
- Computer and Accessories as the highest sales
+ Computer and Accessories has the highest sales
 
- 
+ The organisation should increase teir budget on the production of computer accessories.
 
 
 
